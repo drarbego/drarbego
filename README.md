@@ -23,4 +23,4 @@
                   (_(__/  ./     /                    \_\      \.
                          (_(___/                         \_____)_)
 ```
-Seems like you like to explore. How about exploring the [fret](https://www.explorethefreat.com/)?
+Seems like you like to explore. How about exploring the [fret](https://www.guitarscalemodes.com/)?
