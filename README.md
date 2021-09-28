@@ -23,4 +23,4 @@
                   (_(__/  ./     /                    \_\      \.
                          (_(___/                         \_____)_)
 ```
-Seems like you're an explorer, you may like to [explore the fret](https://www.explorethefret.com/).
+If you like fretted instruments you may like to [explore the fret](https://www.explorethefret.com/).
